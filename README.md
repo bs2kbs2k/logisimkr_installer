@@ -1,7 +1,7 @@
 # LogisimKR Installer
 
 이 소스는 로지심KR의 설치파일 부분입니다.  
-자바 8이 없다으 설치하며, 로지심KR을 C:\logisimkr 에 설치하게 됩니다.  
+자바 8이 없다면 설치하며, 로지심KR을 C:\logisimkr 에 설치하게 됩니다.  
 이 소스는 MIT 라이선스로 공개됩니다. 
 ```
 Copyright (c) 2017 TPT&Logisim Community
